@@ -1,3 +1,3 @@
 ## My Protfolio
 
-![My Protfolio](img/My-Alternate-Portfolio-Website.png)
+![My Protfolio](assets/My-Alternate-Portfolio-Website.png)
