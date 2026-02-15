@@ -79,7 +79,7 @@ body.dark .iknow_tm_hero .main_menu ul li{
 	box-shadow: none;
 }
 body.dark .iknow_tm_hero .main_menu ul li.active{
-	background-color: #4b62d6;
+	background-color: #63656f;
 }
 body.dark .iknow_tm_hero .main_menu ul li span{
 	color: #fff;
@@ -95,13 +95,13 @@ body.dark .iknow_tm_copyright .right ul li a{
 	color: #a7afbd;
 }
 body.dark .iknow_tm_copyright .right ul li a:hover{
-	color: #4b62d6;
+	color: #63656f;
 }
 body.dark .iknow_tm_copyright .left a{
 	color: #a7afbd;
 }
 body.dark .iknow_tm_copyright .left a:hover{
-	color: #4b62d6;
+	color: #63656f;
 }
 body.dark .iknow_tm_resume .info_list ul li .short .job span{
 	color: #d3d7df;
@@ -120,7 +120,7 @@ body.dark .iknow_tm_portfolio .portfolio_filter ul li a{
 }
 body.dark .iknow_tm_portfolio .portfolio_filter ul li a:hover,
 body.dark .iknow_tm_portfolio .portfolio_filter ul li a.current{
-	color: #4b62d6;
+	color: #63656f;
 }
 body.dark .iknow_tm_services .service_list ul li .list_inner{
 	background-color: #5c5d64;
@@ -141,7 +141,7 @@ body.dark .iknow_tm_news .news_list ul li .details .title a{
 	color: #fff;
 }
 body.dark .iknow_tm_news .news_list ul li .details .title a:hover{
-	color: #4b62d6;
+	color: #63656f;
 }
 body.dark .iknow_tm_news .news_list ul li .details{
 	background-color: #5b5c64;
@@ -188,10 +188,10 @@ body.dark .iknow_tm_fixed_content .menubar ul li{
 	background-color: #494b50;
 }
 body.dark .iknow_tm_fixed_content .menubar ul li:hover{
-	background-color: #4b62d6;
+	background-color: #63656f;
 }
 body.dark .iknow_tm_fixed_content .menubar ul li.active{
-	background-color: #4b62d6;
+	background-color: #63656f;
 }
 body.dark .iknow_tm_fixed_content .menubar ul li span{
 	color: #fff;
@@ -212,7 +212,7 @@ body.dark .iknow_tm_contact .wrapper .left ul li .list_inner .short span a{
 	color: #a7afbd;
 }
 body.dark .iknow_tm_contact .wrapper .left ul li .list_inner .short span a:hover{
-	color: #4b62d6;
+	color: #63656f;
 }
 body.dark .iknow_tm_fixed_mainpart{
 	background-color: #3a3934;
@@ -268,7 +268,7 @@ body.dark .iknow_tm_sidebar_3 .menu ul li span{
 }
 body.dark .iknow_tm_sidebar_3 .menu ul li.current span,
 body.dark .iknow_tm_sidebar_3 .menu ul li:hover span{
-	color: #4b62d6;
+	color: #63656f;
 }
 body.dark .iknow_tm_section_new{
 	background-color: #494b50;
@@ -296,8 +296,8 @@ body.dark .iknow_tm_mainpart_new_2 .main_menu ul li span{
 body.dark .iknow_tm_sidebar_3 .menu ul li:before{background-color: rgba(255,255,255,.05);}
 body.dark .iknow_tm_sidebar_3 .menu ul li:after{background-color: rgba(255,255,255,.1);}
 @media(max-width: 1040px){
-	body.dark .iknow_tm_topbar .wrapper .menu ul li.active a{color: #4b62d6;}
-	body.dark .iknow_tm_topbar .wrapper .menu ul li a:hover{color: #4b62d6;}
+	body.dark .iknow_tm_topbar .wrapper .menu ul li.active a{color: #63656f;}
+	body.dark .iknow_tm_topbar .wrapper .menu ul li a:hover{color: #63656f;}
 	body.dark .iknow_tm_topbar .wrapper .menu{box-shadow: 0px 0px 30px rgb(255 255 255 / 4%);}
 }
 @media(max-width: 480px){
