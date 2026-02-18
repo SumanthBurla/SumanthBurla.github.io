@@ -2459,7 +2459,7 @@ body.dark .loader_line:after{
 	height: auto;
 	clear: both;
 	float: left;
-	padding-top: 70px;
+	/* padding-top: 70px; */
 }
 .iknow_tm_news .news_list ul{
 	margin: 0px 0px 0px -25px;
