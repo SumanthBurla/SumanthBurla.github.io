@@ -1459,7 +1459,7 @@ body.dark .loader_line:after{
 }
 .iknow_tm_main_title{
 	width: 100%;
-	max-width: 45%;
+	max-width: 90%;
 	height: auto;
 	clear: both;
 	float: left;
@@ -2738,7 +2738,7 @@ input[type=number] {
 }
 .iknow_tm_contact .message_area textarea{
 	width: 100%;
-	height: 230px;
+	height: 130px;
 	border-radius: 10px;
 	border: 1px solid rgba(0,0,0,.15);
 	padding: 25px !important;
