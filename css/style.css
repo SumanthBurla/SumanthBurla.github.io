@@ -1356,7 +1356,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .iknow_tm_mainpart.opened{
-	padding: 70px;
+	padding: 55px;
 }
 .iknow_tm_main_section{
 	width: 100%;
